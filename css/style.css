@@ -26,6 +26,11 @@ header {
     left: 0;
     right: 0;
 }
+.nav>li {
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+}
 span h1 {
     float: left;
 }
@@ -35,6 +40,14 @@ ul {
 }
 li {
     margin: 0 10px;
+}
+.dropdown {
+    display: none;
+    position: absolute;
+    right: 100px;
+}
+#hover-posts:hover>.dropdown {
+  display: block;
 }
 header>ul>li>a {
     text-decoration: none;
