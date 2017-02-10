@@ -74,7 +74,7 @@ header>ul>li>a {
     font-size: 65px;
 }
 /*=======================MAIN==============================*/
-#wrapper {
+wrapper {
     max-width: 850px;
     margin: 0 auto;
     text-align: center;
@@ -86,7 +86,7 @@ header>ul>li>a {
 /*===========================FOOTER============================*/
 footer {
     height: 150px;
-    background-color: #79bae8;
+    background-color: #d95d16;
 }
 #social-media-wrapper {
     margin: 0 auto;
@@ -94,11 +94,12 @@ footer {
 }
 
 a i {
-    color: #9932CC;
+    color: #000;
     padding-left: 20px;
 }
 #copyright {
-    color: #9932CC;
+    color: #000;
+    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
     text-align: center;
 }
 

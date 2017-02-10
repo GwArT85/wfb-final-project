@@ -1,0 +1,13 @@
+/*=============================ABOUT HERO==========================*/
+#about-hero {
+    height: 450px;
+    background-image: url('../img/nfl-street-2.jpg');
+    background-position: right;
+    background-size: cover;
+    margin-top: 80px;
+}
+/*============================COLUMNS==============================*/
+.column {
+    float: left;
+    width: 33%;
+}
