@@ -60,3 +60,32 @@ header>ul>li>a {
     top: 42%;
     font-size: 65px;
 }
+/*=======================MAIN==============================*/
+#wrapper {
+    max-width: 850px;
+    margin: 0 auto;
+    text-align: center;
+}
+#main-content-paragraph {
+    display: inline-block;
+    text-align: justify;
+}
+/*===========================FOOTER============================*/
+footer {
+    height: 150px;
+    background-color: #79bae8;
+}
+#social-media-wrapper {
+    margin: 0 auto;
+    text-align: center;
+}
+
+a i {
+    color: #9932CC;
+    padding-left: 20px;
+}
+#copyright {
+    color: #9932CC;
+    text-align: center;
+}
+
