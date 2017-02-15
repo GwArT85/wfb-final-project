@@ -1,12 +1,17 @@
-#map iframe {
-    width: 580px;
-    height: 550px;
+/*=======================MAP SECTION==============================*/
+section {
+    margin-top: 112px;
 }
 .pull-left {
     float: left;
 }
+#map iframe {
+    width: 580px;
+    height: 550px;
+}
+/*=============================BUTTON SECTION==========================*/
 button {
-    margin-top: 80px;
+    margin-top: 250px;
     background-color: #d95d16;
     border-radius: 10px;
     padding: 20px;
@@ -17,3 +22,8 @@ a {
     color: #fff;
     text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
+/*==========================FOOTER SECTION=============================*/
+.clear {
+    clear: both;
+}
+

@@ -4,11 +4,18 @@
     background-image: url('../img/ps2.png');
     background-position: bottom;
     background-size: cover;
-    margin-top: 80px;
+    margin-top: 82px;
 }
-/*============================COLUMNS==============================*/
+iframe {
+    margin-top: 152px;
+    margin-left: 420px;
+}
+/*============================COLUMN==============================*/
 .text-center {
     text-align: center;
+}
+p {
+    margin: 0;
 }
 .justify {
     text-align: justify;
