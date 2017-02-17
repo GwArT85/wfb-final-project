@@ -1,3 +1,7 @@
+/*==================background-color====================*/
+.gray-background {
+    background-color: #D3D3D3;
+}
 /*=============================ABOUT HERO==========================*/
 #about-hero {
     height: 450px;
@@ -14,9 +18,18 @@ iframe {
 .text-center {
     text-align: center;
 }
+.column {
+    width: 33%;
+    float: left;
+}
 p {
     margin: 0;
+    padding: 10px;
 }
 .justify {
     text-align: justify;
+}
+/*=================================FOOTER=============================*/
+footer {
+    clear: both;
 }
